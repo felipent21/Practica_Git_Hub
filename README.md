@@ -1,2 +1,2 @@
 # practicaGit
-#Esta es una practiva de git
+#Esta es una practica de git
